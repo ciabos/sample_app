@@ -30,6 +30,8 @@ gem 'turbolinks'
 
 gem 'jbuilder', '~> 2.0'
 
+gem 'factory_girl_rails', '4.2.1'
+
 group :doc do
   gem 'sdoc', '0.3.20', require: false
 end
